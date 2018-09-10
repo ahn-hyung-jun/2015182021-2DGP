@@ -55,9 +55,5 @@ while (loop==0):
         character.draw_now(210*math.cos(math.radians(t))+400, 210*math.sin(math.radians(t))+300)
         t=t+2
         delay(0.01)
-    
-        
-
-      
 
 close_canvas()
